@@ -25,6 +25,7 @@ function extractCSSClasses() {
 function createCSSClasses() {
     extractedClasses.forEach(className => {
         const classBlocks = className.split("-");
+        console.log(classBlocks);
 
         switch (classBlocks[0]) {
             case 'color':
@@ -41,15 +42,19 @@ function createCSSClasses() {
 
             case 'fs': 
                 buildFontSizeClass(classBlocks);
+                break;
 
             case 'margin': 
                 buildMarginClass(classBlocks);
+                break;
 
             case 'corner':
                 buildRadiusClass(classBlocks);
+                break;
             
             case 'border':
                 buildBorderClass(classBlocks);
+                break;
 
             default:
                 break;
