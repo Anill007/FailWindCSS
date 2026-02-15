@@ -1,0 +1,47 @@
+*{padding: 0; margin: 0; box-sizing: border-box}.color-primary {color: #4C1D95} 
+.margin-16 {margin: 16px}
+.corner-16 {border-radius: 16px}
+.border-16 {border: 1px solid 16}
+.bg-secondary {background-color: #FFE8D6} 
+.padding-8 {padding: 8px} 
+.fs-24 {font-size: 24px; 
+    line-height: 24px; } 
+.margin-24 {margin: 24px}
+.corner-24 {border-radius: 24px}
+.border-24 {border: 1px solid 24}
+.corner-8 {border-radius: 8px}
+.border-8 {border: 1px solid 8}
+.color-white {color: white} 
+.bg-purple {background-color: purple} 
+.padding-24 {padding: 24px} 
+.fs-54 {font-size: 54px; 
+    line-height: 54px; } 
+.margin-54 {margin: 54px}
+.corner-54 {border-radius: 54px}
+.border-54 {border: 1px solid 54}
+.corner-16 {border-radius: 16px}
+.border-16 {border: 1px solid 16}
+.color-blue {color: blue} 
+.fs-20 {font-size: 20px; 
+    line-height: 20px; } 
+.margin-20 {margin: 20px}
+.corner-20 {border-radius: 20px}
+.border-20 {border: 1px solid 20}
+.corner-12 {border-radius: 12px}
+.border-12 {border: 1px solid 12}
+.border-primary {border: 1px solid #4C1D95}
+.color-red {color: red} 
+.corner-24 {border-radius: 24px}
+.border-24 {border: 1px solid 24}
+.color-black {color: black} 
+.corner-18 {border-radius: 18px}
+.border-18 {border: 1px solid 18}
+.border-black {border: 1px solid black}
+.margin-20 {margin: 20px}
+.corner-20 {border-radius: 20px}
+.border-20 {border: 1px solid 20}
+.fs-18 {font-size: 18px; 
+    line-height: 18px; } 
+.margin-18 {margin: 18px}
+.corner-18 {border-radius: 18px}
+.border-18 {border: 1px solid 18}
